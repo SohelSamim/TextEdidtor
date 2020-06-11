@@ -1,0 +1,35 @@
+#text-output {
+  min-height: 200px;
+  border-radius: 3px;
+  padding: 10px;
+  word-wrap: break-word;
+  text-align: left;
+  border-bottom-right-radius: 1cm;
+}
+
+#text-input {
+  min-height: 200px;
+  color: blue;
+  text-align: left;
+  border-radius: 0rem;
+  border-color: black;
+  border-bottom-left-radius: 1cm;
+}
+
+.editor .col {
+  max-width: 50%;
+  flex-basis: 50%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
