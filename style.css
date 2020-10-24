@@ -13,7 +13,7 @@
   text-align: left;
   border-radius: 0rem;
   border-color: black;
-  border-bottom-left-radius: 1cm;
+  border-bottom-left-radius: 0.1cm;
 }
 
 .editor .col {
